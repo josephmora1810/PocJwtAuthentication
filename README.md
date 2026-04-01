@@ -90,7 +90,7 @@ spring.jpa.hibernate.ddl-auto=
 spring.jpa.open-in-view=
 
 # JWT
-jwt.secret.key=my-super-secret-key-for-jwt-authentication-2024-spring-boot-with-64-bytes-or-more-xxxxxxxx
+jwt.secret.key=jwt.secret.key=${JWT_SECRET}
 
 # Logging
 logging.level.org.springframework.security=
