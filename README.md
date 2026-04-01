@@ -1,5 +1,7 @@
 # 🔐 JWT Authentication POC with Spring Boot & Kotlin
 
+🔗 Repository: https://github.com/josephmora1810/PocJwtAuthentication
+
 ## 📌 Overview
 
 This project is a **Proof of Concept (POC)** for implementing **JWT (JSON Web Token) authentication** using **Spring Boot 4.0.5** and **Kotlin**. It demonstrates a stateless authentication mechanism with role‑based access control, secured endpoints, and integration with a MySQL database via JPA/Hibernate.
@@ -100,8 +102,8 @@ logging.level.org.hibernate.SQL=
 ### 1. Clone the Repository
 First, clone the repository or copy the files in your local machine:
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-directorio>
+git clone https://github.com/josephmora1810/PocJwtAuthentication.git
+cd PocJwtAuthentication
 ```
 ### 2. Create the Database
 ```bash
