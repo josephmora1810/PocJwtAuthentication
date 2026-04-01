@@ -298,8 +298,7 @@ class SecurityConfig(
 
 ## 🧪 Testing with Postman
 
-1. Register a new user (POST)  
-   ![Postman register screenshot]
+1. Register a new user (POST)
 
 2. Login and copy the token from the response.
 
