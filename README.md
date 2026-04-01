@@ -336,6 +336,7 @@ This project is for educational purposes. Feel free to use and modify it.
 ---
 
 ## 👨‍💻 Author
+(Joseph Mora/josephmora1810)
 
 Developed as a Proof of Concept for JWT authentication with Spring Boot & Kotlin.
 
